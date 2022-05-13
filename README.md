@@ -1,8 +1,8 @@
 ## About:
 Tired of always having to look up different versions of file structures while working with hex?
 
-### **Veritas** - **V**eraciously **E**ffective **R**enderer **I**n-All **T**ypical **A**rtifact **S**tructures
-> ...is an elementary WIP hex **viewer** made for forensicators, which automatically identifies different artifacts and applies the correct template. These templates are generated dynamically to accurately highlight data with appropriate color markers.
+### Veritas - Veraciously Effective Renderer In-All Typical Artifact Structures
+is an elementary WIP hex **viewer** made for forensicators, which automatically identifies different artifacts and applies the correct template. These templates are generated dynamically to accurately highlight data with appropriate color markers.
 
 ## Features:
 * Identify the artifact and load it's template.
