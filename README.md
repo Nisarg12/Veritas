@@ -4,6 +4,9 @@ Tired of always having to look up different versions of file structures while wo
 #### Veritas - Veraciously Effective Renderer In-All Typical Artifact Structures
 is an elementary WIP hex **viewer** made for forensicators, which automatically identifies different artifacts and applies the correct template. These templates are generated dynamically to accurately highlight data with appropriate color markers.
 
+#### Last Still
+![]()
+
 ## Features
 * Identify the artifact and load it's template.
 * View color coded artifact file structure.
@@ -12,8 +15,8 @@ is an elementary WIP hex **viewer** made for forensicators, which automatically 
 
 ## Supported Artifacts
 * Prefetch: XP, Vista, 7, 8.1, 10, 11
-* $MFT
-* Registry files
+* TODO: $MFT
+* TODO: Registry files
 * TODO: Images: png, jpeg, jpg, bmp, gif
 * TODO: Documents: pdf
 
