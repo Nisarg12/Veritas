@@ -43,3 +43,4 @@ python3 -m pip install "kivy[base]"
 * [Gary Kessler](https://www.linkedin.com/in/garykessler)'s [File Signatures Table](https://www.garykessler.net/library/file_sigs.html)
 * [Andrew Rathbun](https://twitter.com/bunsofwrath12)'s [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
 * [Forensics Wiki](https://forensicswiki.xyz/page/Main_Page)
+* [Libscaa](https://github.com/libyal/libscca)
