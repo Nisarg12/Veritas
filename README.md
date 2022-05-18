@@ -5,7 +5,7 @@ Tired of always having to look up different versions of file structures while wo
 is an elementary WIP hex **viewer** made for forensicators, which automatically identifies different artifacts and applies the correct template. These templates are generated dynamically to accurately highlight data with appropriate color markers.
 
 #### Last Still
-![Screenshot.png](https://raw.githubusercontent.com/Nisarg12/Veritas/main/images/Screenshot.png)
+![Screenshot.png](https://raw.githubusercontent.com/Nisarg12/Veritas/main/images/Screenshot.png?)
 
 ## Features
 * Identify the artifact and load it's template.
