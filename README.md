@@ -40,7 +40,8 @@ python3 -m pip install "kivy[base]"
 ```
 
 ## Special Thanks
-* [Gary Kessler](https://www.linkedin.com/in/garykessler)'s [File Signatures Table](https://www.garykessler.net/library/file_sigs.html)
-* [Andrew Rathbun](https://twitter.com/bunsofwrath12)'s [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
-* [Forensics Wiki](https://forensicswiki.xyz/page/Main_Page)
-* [Libscaa](https://github.com/libyal/libscca)
+* [Gary Kessler](https://www.linkedin.com/in/garykessler)'s [File Signatures Table](https://www.garykessler.net/library/file_sigs.html), for the very handy cheatsheet for various file signatures.
+* [Andrew Rathbun](https://twitter.com/bunsofwrath12)'s [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum), for providing numerous artifact samples to validate proper parsing.
+* [Forensics Wiki](https://forensicswiki.xyz/page/Main_Page), for additional information on file structures.
+* [Libscaa](https://github.com/libyal/libscca), for the prefetch file structure documentation.
+* [el3phanten](https://github.com/el3), for invaluable assistance in kivy.
