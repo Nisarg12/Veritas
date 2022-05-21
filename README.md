@@ -1,5 +1,5 @@
 ## About
-Tired of always having to look up different versions of file structures while working with hex?
+Tired of always having to look up different versions of file structures & manually mapping the bytes while working with hex?
 
 #### Veritas - Veraciously Effective Renderer In-All Typical Artifact Structures
 is an elementary WIP hex **viewer** made for forensicators, which automatically identifies different artifacts and applies the correct template. These templates are generated dynamically to accurately highlight data with appropriate color markers.
@@ -7,9 +7,12 @@ is an elementary WIP hex **viewer** made for forensicators, which automatically 
 #### Last Still
 ![Screenshot.png](https://raw.githubusercontent.com/Nisarg12/Veritas/main/images/Screenshot.png?)
 
+## Disclaimer
+Veritas is not meant to be an advanced hex viewer with functionalities that a real hex editor might have. It **solely** aims for one thing, convenience for data validation. It is suggested that this hex viewer be used in accordance with other good hex editors that offer searching and goto functions. Over time, Veritas will support more file structures; but as of now I'm the only one working on this project when I'm able to.
+
 ## Features
-* Identify the artifact and load it's template.
-* View color coded artifact file structure.
+* Identify the artifact and load the appropriate template.
+* View color coded artifact file structure with sub-sections.
 * TODO: Multiple tabs.
 * TODO: Finish popups.
 
